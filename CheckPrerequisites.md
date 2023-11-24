@@ -4,7 +4,8 @@
 
 Welcome to the festive launchpad of our ALM expedition! As we gear up for a journey filled with learning and creation, it's essential to ensure your sleigh is packed and the reindeer are ready. This guide is your checklist, making sure you're all set for a smooth takeoff into our hands-on labs. Let's double-check that your workshop is decked out with all the tools and trimmings needed for our adventure!
 
-![prerequisites](./SantaStorage/1-PrerequisitesCheck.png)
+<img src="https://github.com/Katerina-Chernevskaya/Santa-s-Workshop-of-Power/blob/ee40cf5d0d4715df7599c29f73841beb32fa62d7/SantaStorage/1-PrerequisitesCheck.png" width="100">
+
 
 ## 1. Laptop
 **Task:** Confirm your laptop is fully charged and in tip-top shape.
