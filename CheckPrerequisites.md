@@ -67,10 +67,10 @@ Think of DEV as the elves' workshop and TEST as the window display._
 ***
 
 ## 6. Unmanaged Solution Imported in Dev Environment
-**Task:** Make sure your DEV environment is like Santa's sack, filled with an unmanaged demo solution.
+**Task:** Make sure your DEV environment is like Santa's sack, filled with an unmanaged demo solution "North Pole Communication Kit".
 
 :exclamation: _Note:
-Download the solution [here]() as if you're pulling toys from Santa's bag._
+Download the solution [here](./SantaStorage/NorthPoleCommunicationKit_1_0_0_1.zip) as if you're pulling toys from Santa's bag._
 
 **Outcome:** A workshop bustling with all the necessary tools for our ALM crafting.
 
