@@ -9,6 +9,10 @@ As your Cosmic Elf Captain on this journey, I'm delighted to lead you through a 
 
 ![Itinerary](./SantaStorage/SantasWorkshopOfPower-Itinerary.png)
 
+[Start your journey here](./Chapter1%20-%20Intro.md)
+
+---
+
 ## 🌟 What to Expect
 Our Yuletide ALM Journey Itinerary, depicted above, outlines the merry milestones we'll visit. Each one is packed with insights and activities, ready for you to unwrap and savor.
 
