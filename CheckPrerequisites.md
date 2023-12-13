@@ -57,10 +57,10 @@ Start the plan [here](https://powerapps.microsoft.com/en-us/developerplan/) and 
 ***
 
 ## 5. Two Power Platform Environments created
-**Task:** Craft two distinct Power Platform environments: one for building toys (DEV) and the other for displaying them (TEST).
+**Task:** Craft two distinct Power Platform environments: one for building toys (DEV) and the other for displaying them (PROD).
 
 :exclamation: _Note:
-Think of DEV as the elves' workshop and TEST as the window display._
+Think of DEV as the elves' workshop and PROD as the window display._
 
 **Outcome:** The perfect duo of environments to practice your CI/CD carols.
 
